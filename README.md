@@ -2,4 +2,4 @@ This is a possible way to realize the animation of a amass dataset using smplx m
 
 Steps are: 
 load the model and the dataset -> convert the dataset to meshes -> render the meshes -> save the images -> make the video
-![nothing](./output/pics/0.png）
+<img src = "./output/pics/0.png">
